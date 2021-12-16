@@ -41,4 +41,4 @@ Dy = int(input("Please enter a value for Point D, y: "))
 
 print(beizierCurve(Ax, Ay, Bx, By, Cx, Cy, Dx, Dy))
 
-q = input("Press any ENTER to quit")
+input("Press any Key to quit")
